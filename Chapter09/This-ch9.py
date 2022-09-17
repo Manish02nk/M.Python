@@ -1,0 +1,8 @@
+f = open("this-ch9.txt", "w")
+f.write("this is nice..so nice\n")
+f.write("this is nice..so nice\n")
+f.write("this is nice..so nice\n")
+f.write("this is nice..so nice\n")
+f.write("this is nice..so nice\n")
+f.write("this is nice..so nice\n")
+f.close()

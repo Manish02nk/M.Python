@@ -1,0 +1,9 @@
+# a = 50
+# b = 5
+# print("The sum of 50+5 =", 50+5)
+# print("The sum of 50-5 =", 50-5)
+# print("The sum of 50*5 =", 50*5)
+# print("The sum of 50/5 =", 50/5)
+a = 3
+b = 45
+print("The sum of a + b = ", a+b)
